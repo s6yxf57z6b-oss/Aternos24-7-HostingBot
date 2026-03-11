@@ -8,7 +8,7 @@
   "server": {
     "ip": "ganzetruppe-45gu.aternos.me",
     "port": 38263 ,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "you are a noob",
+       
       ]
     },
     "chat-log": true,
